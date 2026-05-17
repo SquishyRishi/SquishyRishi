@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rishi 👋
 
-<!--
-**SquishyRishi/SquishyRishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Computer Science student at RMIT University, majoring in Cyber Security.
 
-Here are some ideas to get you started:
+I'm passionate about understanding how systems are attacked and defended — with a particular interest in penetration testing and digital forensics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I document my learning, build tools, and work toward becoming a security professional.
+
+## 🔍 Areas of Interest
+- Penetration Testing & Offensive Security
+- Digital Forensics & Incident Response
+
+## 🛠️ Tools & Technologies
+- Python, Bash
+- Wireshark, Ghidra, Nmap
+- Linux, Virtual Machines
+
+## 📚 Currently Working On
+- Building hands-on skills via TryHackMe
+- Developing security tools and writeups
+- Seeking a cyber security internship for late 2026
+
+## 📫 Get in Touch
+- LinkedIn: https://www.linkedin.com/in/rishi-sood-76b88a33a
+- Email: s4004863@student.rmit.edu.au
