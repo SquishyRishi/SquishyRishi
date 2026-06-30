@@ -22,4 +22,4 @@ This profile is where I document my learning, build tools, and work toward becom
 
 ## 📫 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/rishi-sood-76b88a33a
-- Email: s4004863@student.rmit.edu.au
+- Email: rishi.sood@hotmail.com
