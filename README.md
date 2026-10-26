@@ -17,7 +17,7 @@ This profile is where I document my learning, build tools, and work toward becom
 
 ## Currently Working On
 - Building hands-on skills via TryHackMe and Metasploitable machines on my self-hosted homelab
-- Seeking a cyber security internship/graduate role for 2027
+- Seeking a cyber security full-time/part-time job for 2027
 
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/rishi-sood-76b88a33a
